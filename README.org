@@ -10,4 +10,4 @@ much an alpha release_, but it should be stable enough.
 
 ** Screenshot of the editor
 
-[[file:screenshot-editor.png][file:~/sync/emacs/lisp/epass/screenshot-editor.png]]
+[[file:screenshot-editor.png]]
