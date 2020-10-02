@@ -1,12 +1,14 @@
 
+*Note*: This is unmaintained. I have used this with no issues for a while, but i have 
+switched away from =pass= to =keepassxc= for better android support.
+
 * Epass
 
 Epass is a password-manager based on =pass= (see https://www.passwordstore.org/). The main
 advantage over other solutions is that *the only external dependency is* =gpg=, not =pass=
 itself. As a result, it runs very well on all platforms, including Windows. It includes
 clipboard-management and a major-mode that can display the password as asterisks('*'). It
-uses the default emacs mechanisms for encryption and decryption of files. _It is still very
-much an alpha release_, but it should be stable enough.
+uses the default emacs mechanisms for encryption and decryption of files.
 
 ** Screenshot of the editor
 
